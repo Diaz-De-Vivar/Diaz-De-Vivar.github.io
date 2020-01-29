@@ -1,6 +1,6 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: Alexander Qaddourah
+description: CU Boulder Master's of Business Analytics Student
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -18,9 +18,9 @@ pagination:
   per_page: 5
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
+twitter: alex_qaddourah
+github:  alexqaddourah
+linkedin: aqaddourah
 
 #Additional Pages
 about: about
