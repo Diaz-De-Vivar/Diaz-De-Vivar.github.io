@@ -1,7 +1,7 @@
 # Site settings
 title: Alexander Qaddourah
 description: CU Boulder Master's of Business Analytics Student
-cover: assets/images/cu_boulder.jpg
+cover: assets/images/2018_cu_boulder_aerial.jpg
 logo:
 favicon:
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
