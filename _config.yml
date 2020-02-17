@@ -1,9 +1,9 @@
 # Site settings
 title: Alexander Qaddourah
 description: CU Boulder Master's of Business Analytics Student
-cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
-favicon: assets/images/favicon.png
+cover: assets/images/cu_boulder.jpg
+logo:
+favicon:
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://alexqaddourah.github.io" # the base hostname & protocol for your site
 
@@ -17,7 +17,6 @@ linkedin: aqaddourah
 #Additional Pages
 about: about
 contact: contact
-privacy-policy: privacy-policy
 
 
 permalink: /:title
@@ -34,18 +33,6 @@ kramdown:
 
 plugins:
   - jekyll-paginate
-
-
-# Settings for rake task
-safe: False
-lsi: False
-username: alexqaddourah #github username
-repo: alexqaddourah.github.io #github repository
-branch: master #branch
-relative_source: ../websiteTheme/ #source directory
-destination: ../websiteThemeQ #destination directory
-production_url:  https://aqaddourah.com/
-source_url:  https://github.com/aqaddourah/alexqaddourah.github.io #source repository url
 
 exclude:
   - README.md
