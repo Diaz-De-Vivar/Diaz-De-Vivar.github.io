@@ -1,17 +1,17 @@
 # Site settings
-title: Alexander Qaddourah
-description: CU Boulder Master's of Business Analytics Student
+title: Rodrigo Medina
+description: Estudiante Máster de Ingeniería Industrial - 
 cover: assets/images/2018_cu_boulder_aerial.jpg
 logo:
 favicon:
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://alexqaddourah.github.io" # the base hostname & protocol for your site
+url: "https://diaz-de-vivar.github.io/" # the base hostname & protocol for your site
 
 paginate: 5
 
 # Social
-twitter: alex_qaddourah
-github:  alexqaddourah
+twitter: AlonsoQuixada
+github:  Diaz-De-Vivar
 linkedin: aqaddourah
 
 #Additional Pages
